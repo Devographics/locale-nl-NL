@@ -349,7 +349,7 @@ translations:
           hoe blij zijn ontwikkelaars met de huidige algemene toestand van deze categorie?
 
     # newsletter
-    - key: blocks.newsletter
+    - key: blocks.newsletter.title
       t: Blijf op de hoogte
     - key: blocks.newsletter.description
       t: |
