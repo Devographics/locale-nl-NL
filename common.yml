@@ -26,10 +26,13 @@ translations:
           Je bekijkt deze enquête momenteel in de alleen-lezen modus.
     - key: general.survey_preview
       t: >
-          Deze enquête is in de voorbeeldmodus. De vragen kunnen nog wijzigen en alle ingevoerde data zal worden verwijderd wanneer de daadwerkelijke enquête start.
+          Deze enquête is in de voorbeeldmodus. De vragen kunnen nog wijzigen 
+          en alle ingevoerde data zal worden verwijderd wanneer de daadwerkelijke enquête start.
     - key: general.survey_read_only_back
       t: >
           <a href="{link}">Ga terug</a> naar de hoofdonderzoekspagina om een sessie te starten of te hervatten.
+    - key: general.take_survey
+      t: Doe de {name} enquête 
 
     # surveys
     - key: general.open_surveys
@@ -54,6 +57,10 @@ translations:
       t: Bekijk voorbeeld van enquête »
     - key: general.finish_survey
       t: Voltooi enquête »
+    - key: general.next_section
+      t: Volgende sectie
+    - key: general.prev_section
+      t: Vorige sectie
     - key: general.survey_closed
       t: Deze enquête is nu gesloten.
     - key: general.survey_results
@@ -66,6 +73,10 @@ translations:
       t: Vertalers
     - key: general.translation_help
       t: Hulp bij vertalingen
+    - key: general.newly_added
+      t: Nieuw toegevoegd dit jaar
+    - key: general.newly_added
+      t: Nieuw
 
     # footer
     - key: general.privacy_policy
