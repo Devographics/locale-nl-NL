@@ -98,6 +98,10 @@ translations:
     - key: credits.data_processing
       t: Dataverwerking
 
+    # support
+    - key: general.support_from
+      t: Met steun van
+
     # footer
     - key: general.privacy_policy
       t: Privacybeleid
