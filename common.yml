@@ -20,7 +20,7 @@ translations:
           - Je laten weten wanneer de resultaten live zijn
     - key: general.survey_closed
       t: >
-          Sorry, de enquête is nu gesloten! Je kunt jke gegevens nog steeds bekijken, maar je kunt deze niet wijzigen.
+          Sorry, de enquête is nu gesloten! Je kunt je gegevens nog steeds bekijken, maar je kunt deze niet wijzigen.
     - key: general.survey_read_only
       t: >
           Je bekijkt deze enquête momenteel in de alleen-lezen modus.
