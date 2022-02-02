@@ -118,6 +118,14 @@ translations:
           Let op: alle vragen zijn optioneel, 100% voltooiing is niet vereist.
     - key: general.data_is_saved
       t: Je gegevens worden opgeslagen wanneer je naar de vorige of volgende sectie navigeert.
+    - key: general.close_nav
+      t: Sluit menu
+    - key: general.open_nav
+      t: Open menu
+    - key: general.more_actions
+      t: Meer acties
+    - key: general.skip_to_content
+      t: Ga naar inhoud
 
     # thanks
     - key: general.back
