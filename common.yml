@@ -81,7 +81,7 @@ translations:
     # credits
     - key: credits.thanks
       t: Speciale dank
-     - key: credits.accessibility
+    - key: credits.accessibility
       t: Toegankelijkheidsadvies
     - key: credits.survey_design
       t: Enquêteontwerp
@@ -541,7 +541,6 @@ translations:
       t: Expert
 
     # Gender
-
     - key: options.gender.female
       t: Vrouw
     - key: options.gender.male
@@ -552,7 +551,6 @@ translations:
       t: Zeg ik liever niet
 
     # Race & Ethnicity
-
     - key: options.race_ethnicity.white_european
       t: Wit of van Europese afkomst
     - key: options.race_ethnicity.south_asian
