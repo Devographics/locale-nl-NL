@@ -1,13 +1,13 @@
 locale: nl-NL
 translations:
     - key: accounts.error_incorrect_password
-      t: Incorrect wachtwoord
+      t: Fout wachtwoord
     - key: accounts.error_email_required
-      t: E-mailadres vereist
+      t: Email vereist
     - key: accounts.error_email_already_exists
-      t: E-mailadres bestaat al
+      t: Email bestaat al
     - key: accounts.error_invalid_email
-      t: Ongeldig e-mailadres
+      t: Ongeldig email
     - key: accounts.error_minchar
       t: Je wachtwoord is te kort
     - key: accounts.error_unknown
@@ -54,10 +54,6 @@ translations:
       t: Inschrijven
     - key: accounts.sign_in
       t: aanmelden
-    - key: accounts.switch_to_sign_up
-      t: Nog geen account? Meld je aan
-    - key: accounts.switch_to_sign_in
-      t: Heb je al een account? Log in
     - key: accounts.sign_out
       t: Afmelden
     - key: accounts.cancel
