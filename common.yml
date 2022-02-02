@@ -78,6 +78,26 @@ translations:
     - key: general.newly_added
       t: Nieuw
 
+    # credits
+    - key: credits.thanks
+      t: Speciale dank
+     - key: credits.accessibility
+      t: Toegankelijkheidsadvies
+    - key: credits.survey_design
+      t: Enquêteontwerp
+    - key: credits.logo_design
+      t: Logo-ontwerp
+    - key: credits.mobile_testing
+      t: Mobiel testen
+    - key: credits.data_visualizations
+      t: Datavisualizaties
+    - key: credits.repo_architecture
+      t: Repo Architectuur
+    - key: credits.code_refactoring
+      t: Code refactoren
+    - key: credits.data_processing
+      t: Dataverwerking
+
     # footer
     - key: general.privacy_policy
       t: Privacybeleid
