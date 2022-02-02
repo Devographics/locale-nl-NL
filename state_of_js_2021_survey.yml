@@ -1,0 +1,31 @@
+locale: nl-NL
+namespace: js
+translations:
+    ###########################################################################
+    # General
+    ###########################################################################
+
+    - key: general.survey_intro_js2021
+      t: >
+          Eerst werden de Olympische Spelen van 2020 verplaatst naar 2021
+          en nu vindt de State of JavaScript enquête van 2021 nu plaats, in 2022!
+          Het is waar: tussen werk, familie, en alle onrust in de wereld door, 
+          werden sommige plannen een beetje verstoord.
+
+          Maar ondanks dat we er één naast zitten met het jaartal, hopen we dat de data
+          van deze enquête net zo informatief en verhelderend zal zijn als altijd.
+          En wees niet ongerust, tegen het einde van het jaar zal er nog een enquête zijn om alles weer recht te zetten!
+          
+    ###########################################################################
+    # Survey
+    ###########################################################################
+
+    - key: features.features_intro
+      t: >
+          Welkom bij de enquête! Dit eerste deel gaat over welke **kenmerken** van de JavaScript-taal je kent.
+          Als je iets kent, maar nog niet hebt gebruikt, is dat ook oké! 
+    - key: tools.tools_intro
+      t: >
+          De volgende paar secties focussen op de **bibliotheken** en **raamwerken** die het JavaScript ecosysteem vormen.
+          Laat ons weten waar jij enthousiast over bent!
+          
