@@ -54,6 +54,10 @@ translations:
       t: Inschrijven
     - key: accounts.sign_in
       t: aanmelden
+    - key: accounts.switch_to_sign_up
+      t: Nog geen account? Meld je aan
+    - key: accounts.switch_to_sign_in
+      t: Heb je al een account? Log in
     - key: accounts.sign_out
       t: Afmelden
     - key: accounts.cancel
