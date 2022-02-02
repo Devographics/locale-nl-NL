@@ -164,6 +164,8 @@ translations:
     # forms
     - key: forms.select_option
       t: Selecteer optie
+    - key: forms.clear_field
+      t: Veld legen
 
     # partners
     - key: partners.our_partners
@@ -338,6 +340,42 @@ translations:
     - key: options.opinions.4
       t: Sterk eens
 
+    # age
+    - key: options.age.range_less_than_10
+      t: Jonger dan 10 jaar
+    - key: options.age.range_10_18
+      t: 10-18 jaar oud
+    - key: options.age.range_18_24
+      t: 18-24 jaar oud
+    - key: options.age.range_25_34
+      t: 24-34 jaar oud
+    - key: options.age.range_35_44
+      t: 35-44 jaar oud
+    - key: options.age.range_45_54
+      t: 45-54 jaar oud
+    - key: options.age.range_55_64
+      t: 55-64 jaar oud
+    - key: options.age.range_more_than_65
+      t: 65 jaar of ouder
+
+    # age (short versions)
+    - key: options.age.range_less_than_10.short
+      t: '<10'
+    - key: options.age.range_10_18.short
+      t: 10-18
+    - key: options.age.range_18_24.short
+      t: 18-24
+    - key: options.age.range_25_34.short
+      t: 24-34
+    - key: options.age.range_35_44.short
+      t: 35-44
+    - key: options.age.range_45_54.short
+      t: 45-54
+    - key: options.age.range_55_64.short
+      t: 55-64
+    - key: options.age.range_more_than_65.short
+      t: '>65'
+
     # years of experience
     - key: options.years_of_experience.range_less_than_1
       t: Minder dan een jaar
@@ -386,7 +424,7 @@ translations:
 
     # company size (short versions)
     - key: options.company_size.range_1.short
-      t: 1
+      t: '1'
     - key: options.company_size.range_1_5.short
       t: 1-5
     - key: options.company_size.range_5_10.short
@@ -422,15 +460,15 @@ translations:
     - key: options.yearly_salary.range_work_for_free.short
       t: '0'
     - key: options.yearly_salary.range_0_10.short
-      t: 0~10k
+      t: 0-10k
     - key: options.yearly_salary.range_10_30.short
-      t: 10~30k
+      t: 10-30k
     - key: options.yearly_salary.range_30_50.short
-      t: 30~50k
+      t: 30-50k
     - key: options.yearly_salary.range_50_100.short
-      t: 50~100k
+      t: 50-100k
     - key: options.yearly_salary.range_100_200.short
-      t: 100~200k
+      t: 100-200k
     - key: options.yearly_salary.range_more_than_200.short
       t: '>200k'
 
