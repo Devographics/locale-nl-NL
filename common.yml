@@ -24,6 +24,9 @@ translations:
     - key: general.survey_read_only
       t: >
           Je bekijkt deze enquête momenteel in de alleen-lezen modus.
+    - key: general.survey_preview
+      t: >
+          Deze enquête is in de voorbeeldmodus. De vragen kunnen nog wijzigen en alle ingevoerde data zal worden verwijderd wanneer de daadwerkelijke enquête start.
     - key: general.survey_read_only_back
       t: >
           <a href="{link}">Ga terug</a> naar de hoofdonderzoekspagina om een sessie te starten of te hervatten.
