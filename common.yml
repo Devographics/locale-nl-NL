@@ -15,9 +15,9 @@ translations:
 
           - Je toegang te geven tot je gegevens
 
-          - Je sessie opslaan terwijl je bezig bent
+          - Je sessie op te slaan terwijl je bezig bent
 
-          - Je laten weten wanneer de resultaten live zijn
+          - Je te laten weten wanneer de resultaten live zijn
     - key: general.survey_closed
       t: >
           Sorry, de enquête is nu gesloten! Je kunt je gegevens nog steeds bekijken, maar je kunt deze niet wijzigen.
