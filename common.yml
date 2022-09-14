@@ -148,9 +148,9 @@ translations:
       t: Selecteer optie
 
     # partners
-    - key: partners.our_partners
+    - key: sponsors.our_partners
       t: Onze partners
-    - key: partners.become_partner
+    - key: sponsors.become_partner
       t: Een partner worden
 
     # 404

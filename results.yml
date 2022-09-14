@@ -21,10 +21,10 @@ translations:
     - key: general.completion_percentage
       t: 'Voltooiingspercentage:'
 
-    - key: partners.thanks
+    - key: sponsors.thanks
       t: Dank aan onze partners voor hun steun!
 
-    - key: partners.learn_more
+    - key: sponsors.learn_more
       t: Leer meer.
 
     ###########################################################################
