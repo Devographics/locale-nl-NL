@@ -50,7 +50,7 @@ translations:
     - key: general.preview_survey
       t: Bekijk voorbeeld van enquête »
     - key: general.finish_survey
-      t: Voltooi enquête »
+      t: Voltooi enquête
     - key: general.survey_closed
       t: Deze enquête is nu gesloten.
     - key: general.survey_results
