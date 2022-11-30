@@ -12,7 +12,7 @@ translations:
     # Introduction
     ###########################################################################
 
-    - key: sections.introduction.description
+    - key: introduction.js2020
       t: |
 
           <span class="first-letter">H</span>oe waardeloos 2020 ook was, JavaScript als geheel slaagde er op de een of andere manier toch in om vooruit te komen. Omdat de taal zelf blijft verbeteren

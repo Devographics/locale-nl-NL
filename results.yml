@@ -383,7 +383,7 @@ translations:
       t: Sorry, CSV-export is niet beschikbaar voor deze dataset.
     - key: export.graphql
       t: >
-          Je kunt deze zoekopdracht kopiëren en plakken in onze <a target="_blank" rel="nofollow" href="http://graphiql.stateofjs.com/">openbare GraphQL API</a>.
+          Je kunt deze zoekopdracht kopiëren en plakken in onze <a target="_blank" rel="nofollow" href="https://graphiql.devographics.com/">openbare GraphQL API</a>.
 
     # Tools usage variations
     - key: blocks.tools_usage_variations
