@@ -65,8 +65,6 @@ translations:
     t: Hulp bij vertalingen
   - key: general.newly_added
     t: Nieuw toegevoegd dit jaar
-  - key: general.newly_added
-    t: Nieuw
 
   # credits
   - key: credits.thanks
