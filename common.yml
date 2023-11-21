@@ -740,7 +740,7 @@ translations:
   # blogs & magazines
   - key: resources.blogs_news_magazines
     t: Blogs en tijdschriften
-  - key: resources.blogs_news_magazines.description
+  - key: resources.blogs_news_magazines.question
     t: Welke blogs/tijdschriften/etc. lees jij?
   - key: resources.blogs_news_magazines.others
     t: Andere blogs en tijdschriften
@@ -750,7 +750,7 @@ translations:
   # sites & courses
   - key: resources.sites_courses
     t: Sites en cursussen
-  - key: resources.sites_courses.description
+  - key: resources.sites_courses.question
     t: Welke sites/cursussen/enz. raadpleeg jij?
   - key: resources.sites_courses.others
     t: Andere sites en cursussen
@@ -760,7 +760,7 @@ translations:
   # podcasts
   - key: resources.podcasts
     t: Podcasts
-  - key: resources.podcasts.description
+  - key: resources.podcasts.question
     t: Naar welke programmeergerelateerde podcasts luister je?
   - key: resources.podcasts.others
     t: Andere podcasts
