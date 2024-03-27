@@ -606,43 +606,43 @@ translations:
   # years of experience
   - key: user_info.years_of_experience
     t: Jarenlange ervaring
-  - key: user_info.years_of_experience.description
+  - key: user_info.years_of_experience.question
     t: Hoe lang werk of studeer je al op dit gebied?
 
   # company size
   - key: user_info.company_size
     t: Bedrijfsomvang
-  - key: user_info.company_size.description
+  - key: user_info.company_size.question
     t: Hoe groot je bedrijf is.
 
   # salary ranges
   - key: user_info.yearly_salary
     t: Jaarlijks salaris
-  - key: user_info.yearly_salary.description
+  - key: user_info.yearly_salary.question
     t: In USD.
 
   # job title
   - key: user_info.job_title
     t: Functietitel
-  - key: user_info.job_title.description
+  - key: user_info.job_title.question
     t: Hoe stel je jezelf voor op feestjes?
 
   # javascript proficiency
   - key: user_info.javascript_proficiency
     t: JavaScript-vaardigheid
-  - key: user_info.javascript_proficiency.description
+  - key: user_info.javascript_proficiency.question
     t: Hoe bedreven ben jij in JavaScript?
 
   # css proficiency
   - key: user_info.css_proficiency
     t: CSS-vaardigheid
-  - key: user_info.css_proficiency.description
+  - key: user_info.css_proficiency.question
     t: Hoe bekwaam ben jij in CSS?
 
   # backend proficiency
   - key: user_info.backend_proficiency
     t: Back-end-vaardigheid
-  - key: user_info.backend_proficiency.description
+  - key: user_info.backend_proficiency.question
     t: Hoe bekwaam ben je in back-end ontwikkeling?
 
   # gender
@@ -668,7 +668,7 @@ translations:
       repos te kijken en om naar openbaar beschikbare informatie te verwijzen.
   - key: user_info.industry_sector
     t: Industriële sector
-  - key: user_info.industry_sector.description
+  - key: user_info.industry_sector.question
     t: In welke branche(s) werk je?
   - key: user_info.industry_sector.others
     t: Andere industriële sectoren
