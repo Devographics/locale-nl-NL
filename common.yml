@@ -681,7 +681,7 @@ translations:
 
   - key: tools_others.libraries
     t: Libraries
-  - key: tools_others.libraries.description
+  - key: tools_others.libraries.question
     t: Welke libraries gebruikt u regelmatig?
   - key: tools_others.libraries.others
     t: Andere libraries
@@ -690,7 +690,7 @@ translations:
 
   - key: tools_others.text_editors
     t: Teksteditors
-  - key: tools_others.text_editors.description
+  - key: tools_others.text_editors.question
     t: Welke teksteditor(en) gebruik je regelmatig?
   - key: tools_others.text_editors.others
     t: Andere teksteditors
@@ -699,7 +699,7 @@ translations:
 
   - key: tools_others.utilities
     t: Utilities
-  - key: tools_others.utilities.description
+  - key: tools_others.utilities.question
     t: Welke utilities of tools gebruik jeregelmatig?
   - key: tools_others.utilities.others
     t: Andere utilities
@@ -708,7 +708,7 @@ translations:
 
   - key: tools_others.browsers
     t: Browsers
-  - key: tools_others.browsers.description
+  - key: tools_others.browsers.question
     t: In welke browser(s) werk je voornamelijk tijdens het ontwikkelen?
   - key: tools_others.browsers.others
     t: Andere browsers
@@ -717,7 +717,7 @@ translations:
 
   - key: tools_others.build_tools
     t: Build tools
-  - key: tools_others.build_tools.description
+  - key: tools_others.build_tools.question
     t: Welke buildtools gebruik je?
   - key: tools_others.build_tools.others
     t: Andere buildtools
@@ -726,7 +726,7 @@ translations:
 
   - key: tools_others.non_js_languages
     t: Niet-JavaScript-talen
-  - key: tools_others.non_js_languages.description
+  - key: tools_others.non_js_languages.question
     t: Welke andere programmeertalen gebruik je?
   - key: tools_others.non_js_languages.others
     t: Andere talen
